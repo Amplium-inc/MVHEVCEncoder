@@ -11,7 +11,7 @@ Converting to MV-HEVC for AIVU
 
 # 使い方
 1. DavinchからProResファイルをバンドル形式&「左右」で書き出します。
-2. ProResファイルをバンドル形式で書き出し、左右の映像を分離します。
+2. 左右の映像を「left.mov」「right.mov」にリネームし「videos」フォルダ配下に置きます。
 3. 以下のコマンドを実行します。出力ファイル名は任意で指定できます。
 ```
 ./SideBySideToMVHEVC -i videos -o output.mov

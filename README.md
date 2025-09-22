@@ -6,7 +6,7 @@ Converting to MV-HEVC for AIVU
 2. Place the left-eye and right-eye videos in a folder named “videos” as left.mov and right.mov.
 3. Run the command below to change directory.
 ```
-cd <path of the unzipped folder>
+cd <path of this project>
 ```
 4. Run the command below. You can specify the output file name if you like:
 ```
@@ -16,9 +16,9 @@ cd <path of the unzipped folder>
 # 使い方
 1. DavinchからProResファイルをバンドル形式&「左右」で書き出します。
 2. 左右の映像を「left.mov」「right.mov」にリネームし「videos」フォルダ配下に置きます。
-3. 以下のコマンドを実行し、解凍したフォルダに移動します。
+3. 以下のコマンドを実行し、プロジェクトのフォルダに移動します。
 ```
-cd <解凍したフォルダのpath>
+cd <本プロジェクトのフォルダ>
 ```
 4. 以下のコマンドを実行します。出力ファイル名は任意で指定できます。
 ```

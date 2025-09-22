@@ -6,7 +6,7 @@ Converting to MV-HEVC for AIVU
 2. Place the left-eye and right-eye videos in a folder named “videos” as left.mov and right.mov.
 3. Run the command below to change directory.
 ```
-cd <path of th unzipped folder>
+cd <path of the unzipped folder>
 ```
 4. Run the command below. You can specify the output file name if you like:
 ```

@@ -14,7 +14,7 @@ cd <path of this project>
 ```
 
 # 使い方
-1. DavinchからProResファイルをバンドル形式&「左右」で書き出します。
+1. DavinchからProResファイルをCustom & 「左右」で書き出します。
 2. 左右の映像を「left.mov」「right.mov」にリネームし「videos」フォルダ配下に置きます。
 3. 以下のコマンドを実行し、プロジェクトのフォルダに移動します。
 ```

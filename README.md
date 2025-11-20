@@ -2,7 +2,7 @@ Converting to MV-HEVC for AIVU
 
 # How to use
 
-1. Export ProRes file as Bundle and Separete Eyes from Davinch.
+1. Export ProRes file as Custom and Separete Eyes from Davinch.
 2. Place the left-eye and right-eye videos in a folder named “videos” as left.mov and right.mov.
 3. Run the command below to change directory.
 ```
